@@ -20,6 +20,8 @@ gold-price-prediction/
 │   └── gold_historical_data.csv      # Raw dataset
 │
 ├── gold_price_eda.ipynb              # Main notebook (has all milestones in it)
+│
+├── Final Report ML.docx   
 ├── README.md                         # Readme file 
 ```
 
